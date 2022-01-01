@@ -1,0 +1,62 @@
+{
+    "header": {
+        "hello-world": "Olá mundo!"
+    },
+    "nav": {
+        "option1": "Inicio",
+        "option2": "Serviços",
+        "option3": "Nós",
+        "option4": "Contato",
+        "language": "Idioma",
+        "optionLenguage":{
+            "english": "Inglês",
+            "spanish": "Espanhol",
+            "portuguese": "Português"
+        }
+    },
+    "home": {
+        "title1": "Reformas comerciais",
+        "title2": "e domésticas!",
+        "button": "Contate-nos",
+        "infoFree": "Confira se estamos disponíveis em seu país e tenha um orçamento gratuito!",
+        "subtitle":"Os melhores em reforma",
+        "infoSubtitle": "Somos especializados em manutenção de depósitos, manutenção e reforma de residências, prédios,comerciais e residenciais, hotéis e serviço de mão-de-obra especializada. Limpeza de azulejos, ladrilhos, churrasqueira, pavimentação, pintura, gesso cartonado, decks de piscina, remodelação total. Também fazemos serviço freelancer.",
+        "whyChoose": "Por que nos escolher?",
+        "answer1": "Mão de obra especializada",
+        "answer1Large": "Aqui na R&H Remodeling Group oferecemos empregos bem remunerados com trabalho de qualidade e mão de obra especializada. Com os conhecimentos de uma cultura para outra, combinando nossas habilidades certamente podemos alcançar todos os objetivos que nos comprometemos.",
+        "answer2": "Todo dia é um aprendizado",
+        "answer2Large": "Aprendemos enquanto treinamos uns aos outros. É uma troca de conhecimentos; Seja fazendo um piso ou cavando um buraco. Nós nunca sabemos tudo, todo dia uma nova lição para concluir um trabalho com sucesso! ",
+        "answer3": "100% de satisfação",
+        "answer3Large": "Nós não paramos até ficarmos satisfeitos com o trabalho. Apenas descansamos quando temos satisfação do cliente.",
+        "servicestitle": "Nossos serviços",
+        "service1": "Cozinhas",
+        "service2": "Banheiros",
+        "service3": "Interiores",
+        "service4": "Pavimentação e Churrasqueira",
+        "service5": "Decks de Piscina",
+        "buttonServices": "Saber mais"
+    },
+    "about": {
+        "title": "Sobre R & H Remodeling Group",
+        "bodyPrincipal": "R&H Remodeling Group é uma das empresas que cresce mais rápido em toda a América do Norte, América do Sul e aqui mesmo nos Estados Unidos. Criamos a R & H Remodeling em Jacksonville, Flórida. Nosso objetivo é encontrar a melhor pessoa para o trabalho em questão. Nós nos esforçamos para isso e colocamos nossos nomes em todos os trabalhos realizados. Honramos nosso trabalho com orgulho, honestidade e expectativas muito altas. Com mais de trinta anos de experiência, encorajamos você a ver nossas realizações e avaliações. Temos uma excelente equipe em cada país que é muito particular em cada trabalho. É fundamental que cada CEO, proprietário ou gerente de qualquer país me mostre todo e qualquer trabalho antes de entregá-lo. Nós aqui da R&H iremos 💯% honrar nossa palavra como uma empresa americana 🇺🇸.",
+        "startTitle": "Nossa História",
+        "start": "Comecei na construção civil por volta dos 14 anos, e vivendo uma vida de altos e baixos sempre admirei todas as pessoas que me colocavam para trabalhar mesmo que fosse por pouco ou nenhum dinheiro. Eu admirava todas as pessoas que tinham coisas boas. Isso me deu ambição de trabalhar mais, mudar minha vida e sair das ruas. Em 2011, entrei na faculdade e me formei em justiça criminal. Depois de voltar a estudar, muitas portas se abriram para mim, agora levo o conhecimento de todos para quem trabalhei no passado para o futuro. Quero passar educação para outras pessoas e colocá-las para trabalhar e ajudá-las a aprender, estudar e mudarem suas vidas como eu fiz. Eu realmente me esforço para oferecer trabalho de qualidade e ética. Eu gosto de ajudar os outros. Sendo ensinando, empregando pessoas ou corrigindo suas vidas. Eu realmente gosto de simplesmente ajudar. Ter esta empresa me deu a oportunidade de fazer exatamente isso. Fazemos trabalhos de caridade para os necessitados e apreciamos os trabalhos que nossos clientes nos dão."
+    },
+    "contact": {
+        "title": "Contato",
+        "subtitle": "",
+        "district": "",
+        "person1": "",
+        "person2": "",
+        "person3": "",
+        "mail": "rhremodelingbrasil@proton.me",
+        "phone1": "",
+        "phone2": "",
+        "upcoming-openings-title": "Próximas inaugurações",
+        "upcoming-openings": "Brasil"
+    },
+    "footer": {
+        "tell-us": "Conte-nos sobre seu projeto!",
+        "copyright": "Todos os direitos reservados"
+    }
+}

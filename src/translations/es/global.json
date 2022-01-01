@@ -1,0 +1,62 @@
+{
+    "header": {
+        "hello-world": "Hola Mundooo"
+    },
+    "nav": {
+        "option1": "Inicio",
+        "option2": "Servicios",
+        "option3": "Nosotros",
+        "option4": "Contacto",
+        "language": "Idioma",
+        "optionLenguage":{
+            "english": "Inglés",
+            "spanish": "Español",
+            "portuguese": "Portugués"
+        }
+    },
+    "home": {
+        "title1": "Remodelaciones comerciales",
+        "title2": "y domésticas",
+        "button": "Contáctanos",
+        "infoFree": "¡Compruebe que estamos disponibles en su país y obtenga una cotización gratis!",
+        "subtitle":"Los mejores en el remodelaje",
+        "infoSubtitle": "Nos especializamos en mantenimiento de bodegas, mantenimiento y remodelación de casas, edificios comerciales y residenciales, hoteles y servicio de mano de obra especializada. Limpieza de azulejos, ladrillos, parrillas, adoquin, pintura, cartón de yeso, cubiertas de piscina, remodelación total. También hacemos servicio freelance.",
+        "whyChoose": "¿Por qué elegirnos?",
+        "answer1": "Mano de obra calificada",
+        "answer1Large": "Aquí en R & H Remodeling Group proporcionamos trabajos bien remunerados con trabajo de calidad y mano de obra calificada. Con las muchas habilidades de una cultura a otra, combinando nuestro conocimiento, ciertamente podemos lograr todos los objetivos que nos establezcamos.",
+        "answer2": "Aprendemos mientras entrenamos a otros",
+        "answer2Large": "Aprendemos mientras nos entrenamos unos a otros. Así bien sea mosaico o cavar una zanja, hemos llegado a la conclusión que nunca lo sabremos todo ya que cada día es una nueva lección para llegar con un trabajo perfectamente completado.",
+        "answer3": "100% de satisfacción",
+        "answer3Large": "No nos detendremos hasta que estemos satisfechos de que el trabajo sea estelar, ya que solo nos sentaremos hasta tener criticas constructvas el uno al otro y así tener un trabajo con 100% de satisfacción.",
+        "servicestitle": "Nuestros Servicios",
+        "service1": "Cocinas",
+        "service2": "Baños",
+        "service3": "Interiores",
+        "service4": "Adoquin y Parrillas",
+        "service5": "Cubiertas de Piscina",
+        "buttonServices": "Conoce Más"
+    },
+    "about": {
+        "title": "Acerca de R & H Remodeling Group",
+        "bodyPrincipal": "R&H Remodeling Group es una de las empresas que más crece en toda América del Norte, América del Sur y aquí mismo en los Estados Unidos. Fundamos R&H Remodeling en Jacksonville, Florida. Nuestro objetivo es encontrar a la mejor persona para el trabajo en cuestión. Nos esforzamos por esto y ponemos nuestros nombres en todos los trabajos que hacemos. Honramos nuestro trabajo con orgullo, honestidad y expectativas muy altas. Con más de treinta años de experiencia, lo invitamos a ver nuestros logros y evaluaciones. Tenemos un excelente equipo en cada país que es muy particular en cada trabajo. Es fundamental que cada CEO, propietario o gerente de cualquier país me muestren todos y cada uno de los trabajos antes de entregarlos. Aquí en R&H honraremos 💯% nuestra palabra como empresa estadounidense 🇺🇸.",
+        "startTitle": "Nuestra Historia",
+        "start": "Empecé en el campo de la construcción alrededor de los 14 años, y viviendo una vida de altibajos, siempre admiré a todas las personas que me pusieron a trabajar, aunque fuera por poco o nada de dinero. Admiraba a todas las personas que tenían cosas buenas. Me dio la ambición de trabajar más duro, cambiar mi vida y salir de las calles. En 2011, comencé la universidad y obtuve un título en justicia penal. Después de volver a la escuela, muchas puertas se abrieron para mí, ahora llevo el conocimiento de todas las personas para las que trabajé en el pasado para el futuro. Quiero pasar la educación a otras personas y ponerlas a trabajar y ayudarlas a aprender, estudiar y cambiar sus vidas como lo hice yo. Realmente me esfuerzo por proporcionar un trabajo ético y de calidad. Me gusta ayudar a los demás. Ya sea enseñando, empleando personas o arreglando sus vidas. Realmente me gusta ayudar. Tener esta compañía me ha dado la oportunidad de hacer precisamente eso. Hacemos obras de caridad para los necesitados y apreciamos los trabajos que nos brindan nuestros clientes."
+    },
+    "contact": {
+        "title": "Contacto",
+        "subtitle": "Conoce nuestro equipo",
+        "district": "Honduras",
+        "person1": "Herlin Macias - Owner ",
+        "person2": "",
+        "person3": "",
+        "mail": "rhremodelinghonduras@proton.me",
+        "phone1": "+1 (904) 497-5105",
+        "phone2": "",
+        "upcoming-openings-title": "Próximas aperturas",
+        "upcoming-openings": "Panamá"
+    },
+    "footer": {
+        "tell-us": "Cuéntanos sobre tu proyecto!",
+        "copyright": "Todos los derechos reservados"
+    }
+}

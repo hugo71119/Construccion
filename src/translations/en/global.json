@@ -1,0 +1,63 @@
+{
+    "header": {
+        "hello-world": "Hello World"
+    },
+    "nav": {
+        "option1": "Home",
+        "option2": "Services",
+        "option3": "About",
+        "option4": "Contact",
+        "language": "Language",
+        "optionLenguage":{
+            "english": "English",
+            "spanish": "Spanish",
+            "portuguese": "Portuguese"
+        }
+    },
+    "home": {
+        "title1": "Domestic, commercial renovation",
+        "title2": "and remodeling",
+        "button": "Contact us",
+        "infoFree": "Check if we’re available in your country and get a free quote!",
+        "subtitle":"The best company in renovation",
+        "infoSubtitle": "We specialize in warehouse maintenance, maintenance and renovation of homes, buildings, commercial and residential, hotels and specialized labor service. Tile cleaning, tiles, grill ,pavers, painting, plasterboard, pool decks, total remodeling. We also do freelance service.",
+        "whyChoose": "Why choose us?",
+        "answer1": "Skilled labor",
+        "answer1Large": "Here at R&H Remodeling Group we offer well-paid jobs with quality work and skilled labor. With knowledge from one culture to another, combining our skills we can certainly achieve all the goals we have committed ourselves to.",
+        "answer2": "Every day is a learning experience",
+        "answer2Large": "We learn while we’re training each other. It is an exchange of knowledge; Rather making a floor or digging a hole. We never know everything, every day a new lesson to successfully complete a job!",
+        "answer3": "100% satisfaction",
+        "answer3Large": "We don't stop until we are satisfied with the work. We only rest when we have customer satisfaction.",
+        "servicestitle": "Our services",
+        "service1": "Kitchens",
+        "service2": "Bathrooms",
+        "service3": "Interiors",
+        "service4": "Pavers and Grill",
+        "service5": "Pool Decks",
+        "buttonServices": "More info"
+    },
+    "about": {
+        "title": "About R & H Remodeling Group",
+        "bodyPrincipal": "R&H Remodeling Group is one of the fastest growing companies throughout North America, South America and right here in the United States. We started R&H Remodeling in Jacksonville, Florida. Our goal is to find the best person for the job at hand. We strive for this and put our names on all the jobs we do. We honor our work with pride, honesty and very high expectations. With over thirty years of experience, we encourage you to view our achievements and assessments. We have an excellent team in each country that is very particular in each job. It is critical that every CEO, owner or manager in any country show me any and all work before handing it in. We here at R&H will 💯% honor our word as an American company 🇺🇸.",
+        "startTitle": "Our History",
+        "start": "I started in the construction field around the age of 14, and living a life of ups and downs I always appreciated all the people who put me to work even if it was for little or no money. I admired all people who had established great companies. It gave me the ambition to work harder, change my life and get off the streets. In 2011, I started college and got a degree in criminal justice. After going back to school, many doors opened for me, now I carry the knowledge of everyone I worked for in the past into the future. I want to pass education on to others and help them to better their lives and help them learn, study and change their lives like I did. I really strive to provide quality and ethical work. I like to help others. Rather teaching, employing people or changing their lives for the best. I honestly like to just help. Having this company has given me the opportunity to try and do just that. We do charity work for those in need and appreciate the jobs our customers give us.  Customer service, kindness and respect is one of our top priorities."
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Meet Our Team",
+        "district": "District - Jacksonville Florida",
+        "person1": "Richard Wintz - Owner",
+        "person2": "Herlin Macias- Owner",
+        "person3": "Jose Guifarro - MVP",
+        "mail": "rhremodelinggroup@protonmail.com",
+        "phone1": "English +1 (407)486-5773",
+        "phone2": "Spanish +1 (904)497-5105",
+        "upcoming-openings-title": "",
+        "upcoming-openings": ""
+    },
+    "footer": {
+        "tell-us": "Tell us about your project!",
+        "copyright": "All rights reserved"
+    }
+
+}

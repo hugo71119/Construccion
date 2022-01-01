@@ -1,0 +1,95 @@
+.green{
+    background-color: #f5f5f5;
+    color: white !important;
+}
+.bgmi{
+    background-color: #f5f5f5;
+}
+@media (min-width: 768px) { 
+    .header-color{
+        background-color: black;
+        max-height: 32rem;
+    }
+}
+@media (max-width: 767px) { 
+    .header-color{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../../img/port-phone12.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
+.header-texto, .text-img{
+    height: 32rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+
+.boton{
+    width: 10rem;
+}
+.boton:hover{
+    color: #9e5d27 !important;
+    background-color: #f8f9fa !important;
+}
+@media (max-width: 768px) { 
+    .margs{
+        margin-bottom: 0rem;
+    }
+}
+@media (max-width: 767px) { 
+    .margs{
+        margin-bottom: 3rem;
+    }
+}
+.btn-contact{
+    background-color: #1e1e1e !important;
+    color: white !important;
+}
+.btn-contact:hover{
+    background-color: #9e5d27 !important;
+}
+.color-choose{
+    color: #9e5d27;
+}
+.m-extra{
+    padding-bottom: 5rem !important;
+}
+
+.img-1, .img-2, .img-3, .img-4, .img-5{
+    height: 32rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(../../img/cocina.jpeg);
+}
+.img-2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(../../img/bano.jpeg);
+}
+.img-3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(../../img/interiores.jpeg);
+}
+.img-4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(../../img/parrilla.jpg);
+}
+.img-5{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(../../img/pool.jpg);
+}
+
+/* About */
+.center{
+    width: 70%;
+}
+
+.bg-process{
+    background-color: #dbdbdb;
+}
+
+
+/* contact */
+
+ul{
+    list-style-type: none;
+}
